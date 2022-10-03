@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Question4</string>
+    <string name="concern">Concern</string>
+    <string name="email">Email</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="concern1">Concern</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+</resources>
